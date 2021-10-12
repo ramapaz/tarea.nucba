@@ -1,20 +1,32 @@
 div{
-    background-color:violet;
+    background-color:beige;
 }
 img{
     text-align: center;
+    border-radius: 9cm;
+    align-self: center;
 }
 h1{
-    background-color: violet;
+    background-color:beige;
+    text-align: center;
+    
+   
 }
 ul{
     background-color: beige;
+    float: right;
+    margin: 0 0 10px 10px;
+    border-top-width: initial;
+
 }
 p{
-    background-color: cadetblue;
+    background-color: beige;
 }
 
 
 html {
     line-height: 1.5;
+}
+body{
+    background-color:beige;
 }
